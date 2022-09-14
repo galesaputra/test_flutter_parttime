@@ -16,6 +16,7 @@ package desc:
     google_fonts: google font collection
 
 project structure:
+
     models: model for network interaction
     screen: screen/user layer interactive
     service: all service to support this app run
